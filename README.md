@@ -10,6 +10,14 @@ Use a terminal in this folder and run any file, for example:
 ```bash
 python Q2operations.py
 ```
+# Introduction
+Python is one of the most high-level and user-friendly free programming languages, mainly applied in data science, artificial intelligence, and software development. It facilitates the execution of highly complex calculations by a developer with syntax that is very easy to write. This assignment is focused on developing foundational programming skills in Python using the following:
+• Input and output operations
+• Arithmetic calculations
+• Conditional statements
+• Loops and logical problem-solving
+• Basic algorithm design
+Most of these tasks simulate hands-on experiences with practical problem-solving approaches, which are absolute prerequisites for data science.
 
 **Files**
 - `Q2operations.py` Basic arithmetic operations on two numbers.
